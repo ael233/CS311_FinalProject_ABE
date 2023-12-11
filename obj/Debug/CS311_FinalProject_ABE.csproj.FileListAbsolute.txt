@@ -1,0 +1,10 @@
+C:\Users\aelias2\OneDrive - Bellarmine University 1\Adam's\BSSDE\2023FA CS 311 - App Dev in Visual Langs\Visual Studio projects\CS311_FinalProject_ABE\bin\Debug\CS311_FinalProject_ABE.exe.config
+C:\Users\aelias2\OneDrive - Bellarmine University 1\Adam's\BSSDE\2023FA CS 311 - App Dev in Visual Langs\Visual Studio projects\CS311_FinalProject_ABE\bin\Debug\CS311_FinalProject_ABE.exe
+C:\Users\aelias2\OneDrive - Bellarmine University 1\Adam's\BSSDE\2023FA CS 311 - App Dev in Visual Langs\Visual Studio projects\CS311_FinalProject_ABE\bin\Debug\CS311_FinalProject_ABE.pdb
+C:\Users\aelias2\OneDrive - Bellarmine University 1\Adam's\BSSDE\2023FA CS 311 - App Dev in Visual Langs\Visual Studio projects\CS311_FinalProject_ABE\obj\Debug\CS311_FinalProject_ABE.csproj.AssemblyReference.cache
+C:\Users\aelias2\OneDrive - Bellarmine University 1\Adam's\BSSDE\2023FA CS 311 - App Dev in Visual Langs\Visual Studio projects\CS311_FinalProject_ABE\obj\Debug\CS311_FinalProject_ABE.Form1.resources
+C:\Users\aelias2\OneDrive - Bellarmine University 1\Adam's\BSSDE\2023FA CS 311 - App Dev in Visual Langs\Visual Studio projects\CS311_FinalProject_ABE\obj\Debug\CS311_FinalProject_ABE.Properties.Resources.resources
+C:\Users\aelias2\OneDrive - Bellarmine University 1\Adam's\BSSDE\2023FA CS 311 - App Dev in Visual Langs\Visual Studio projects\CS311_FinalProject_ABE\obj\Debug\CS311_FinalProject_ABE.csproj.GenerateResource.cache
+C:\Users\aelias2\OneDrive - Bellarmine University 1\Adam's\BSSDE\2023FA CS 311 - App Dev in Visual Langs\Visual Studio projects\CS311_FinalProject_ABE\obj\Debug\CS311_FinalProject_ABE.csproj.CoreCompileInputs.cache
+C:\Users\aelias2\OneDrive - Bellarmine University 1\Adam's\BSSDE\2023FA CS 311 - App Dev in Visual Langs\Visual Studio projects\CS311_FinalProject_ABE\obj\Debug\CS311_FinalProject_ABE.exe
+C:\Users\aelias2\OneDrive - Bellarmine University 1\Adam's\BSSDE\2023FA CS 311 - App Dev in Visual Langs\Visual Studio projects\CS311_FinalProject_ABE\obj\Debug\CS311_FinalProject_ABE.pdb
